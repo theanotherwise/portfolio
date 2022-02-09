@@ -1,13 +1,11 @@
 # Career Portfolio
 
----
 ## Lectures
 
 ### Studies
 
 #### [BadAlloc - First Cryptocurrency](./assets/lectures/badalloc/first-cryptocurrency.pdf)
 
----
 ## Trainings
 
 ### Red Hat
@@ -25,7 +23,6 @@
 #### [Linux Security](./assets/the-linux-fundation/lfs416.pdf)
 #### [Linux Performance Tuning](./assets/the-linux-fundation/lfs426.pdf)
 
----
 ## Conferences
 
 ### Security
