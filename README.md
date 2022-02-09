@@ -3,7 +3,7 @@
 ---
 ## Lectures
 
-### [Bitcoin](./assets/bitcoin.pdf)
+#### [Bitcoin](./assets/lectures/bitcoin.pdf)
 
 ---
 ## Trainings
