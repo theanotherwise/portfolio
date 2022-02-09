@@ -21,7 +21,7 @@
 ### The Linux Fundation
 
 #### [Linux Security](./assets/the-linux-fundation/lfs416.pdf)
-#### [Linux Performance](./assets/the-linux-fundation/lfs426.pdf)
+#### [Linux Performance Tuning](./assets/the-linux-fundation/lfs426.pdf)
 
 ---
 ## Conferences
