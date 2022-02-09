@@ -1,5 +1,3 @@
-# portfolio
-
 # Lectures
 
-[test](test)
+[test](./bitcoin-lecture.pdf)
