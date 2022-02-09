@@ -1,4 +1,4 @@
-# Career portfolio
+# Career Portfolio
 
 ---
 ## Lectures
