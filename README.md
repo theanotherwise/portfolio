@@ -17,4 +17,4 @@
 ---
 ## Conferences
 
-### [Security PWNing 2019](pwning-2019.pdf)
+### [Security PWNing 2019](./assets/conferences/pwning-2019.pdf)
