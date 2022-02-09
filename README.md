@@ -3,7 +3,9 @@
 ---
 ## Lectures
 
-#### [Bitcoin](./assets/lectures/bitcoin.pdf)
+### Studies
+
+#### [BadAlloc - First Cryptocurrency](./assets/lectures/badalloc/first-cryptocurrency.pdf)
 
 ---
 ## Trainings
@@ -28,4 +30,4 @@
 
 ### Security
 
-#### [Security PWNing 2019](./assets/conferences/pwning-2019.pdf)
+#### [Security PWNing Conference 2019](./assets/conferences/security-pwding-2019.pdf)
