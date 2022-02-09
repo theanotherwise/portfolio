@@ -1,3 +1,3 @@
 # Lectures
 
-[test](./bitcoin-lecture.pdf)
+[test](./assets/bitcoin-lecture.pdf)
